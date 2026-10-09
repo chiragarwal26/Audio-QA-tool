@@ -1,0 +1,6 @@
+{
+  "name": "Hyundai AQE Lab - Voice AI Acoustic Suite",
+  "description": "High-precision automotive acoustic quality evaluation, telemetry inspection, and defect diagnostics for Hyundai IONIQ 7 cabin voice AI microphones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
